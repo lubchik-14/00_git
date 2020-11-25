@@ -1,1 +1,1 @@
-there is a new line in file1.txt
+there are some changes in file1.txt on branch1
